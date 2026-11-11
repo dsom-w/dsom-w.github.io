@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dsom-w.github.io/sitemap.xml
+Sitemap: https://dsom-w.github.io/chatgpt-plus-guide/sitemap.xml
